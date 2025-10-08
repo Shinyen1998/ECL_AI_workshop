@@ -6,7 +6,7 @@ R codes examples:
 - Play with VS Code: 08102025_ECL_bethnic.R
 
 Bethnic project readme file example:
-- 08102025_readme_example.md
+- 08102025_project_readme_example.md
 
 Workshop slide:
 - 08102025_ECL_AI_workshop.pptx
