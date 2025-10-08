@@ -10,3 +10,4 @@ Bethnic project readme file example:
 
 Workshop slide:
 - 08102025_ECL_AI_workshop.pptx
+- Or access it online: https://docs.google.com/presentation/d/1k4bxgHyJ4By9CVXyHrv8cbQqeA6Va4bPPf_BRw-zeMw/edit?usp=sharing
